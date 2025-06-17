@@ -2,7 +2,7 @@
 
 An interactive R Shiny dashboard for exploring global happiness trends using the World Happiness Report dataset (2006–2023). This application visualizes happiness scores, investigates correlations with socio-economic factors, and enables users to interactively analyze trends by country and continent, providing valuable insights into global well-being patterns[1][2].
 
----
+![image](https://github.com/user-attachments/assets/a456aa95-cd12-421d-9ede-cef88da22ce2)
 
 ## Table of Contents
 
@@ -72,8 +72,8 @@ To run the application locally, follow the instructions in the [Installation](#i
 
 ## Data Sources
 
-- **World Happiness Report (2006–2023):** [Kaggle Dataset](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated?resource=download&select=World-happiness-report-updated_2024.csv)[1]
-- **Continents for Each Country:** [Kaggle Dataset](https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent)[1]
+- **World Happiness Report (2006–2023):** [Kaggle Dataset](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated?resource=download&select=World-happiness-report-updated_2024.csv)
+- **Continents for Each Country:** [Kaggle Dataset](https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent)
 
 ## App Structure
 
@@ -88,6 +88,13 @@ To run the application locally, follow the instructions in the [Installation](#i
   - Happiness Trends by Category
   - GDP vs Happiness
   - World Map (selectable by year and attribute)
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/0b7c02ff-617b-40ba-9d5a-a5ed4c76f4cc)
+![image](https://github.com/user-attachments/assets/996f6f62-f2d2-468c-80ff-0303d6e7a063)
+![image](https://github.com/user-attachments/assets/c94b6356-e998-4b0d-ab66-71240dce607d)
+
 
 ## License
 
