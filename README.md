@@ -1,6 +1,6 @@
 # World Happiness Analysis Dashboard
 
-An interactive R Shiny dashboard for exploring global happiness trends using the World Happiness Report dataset (2006–2023). This application visualizes happiness scores, investigates correlations with socio-economic factors, and enables users to interactively analyze trends by country and continent, providing valuable insights into global well-being patterns[1][2].
+An interactive R Shiny dashboard for exploring global happiness trends using the World Happiness Report dataset (2006–2023). This application visualizes happiness scores, investigates correlations with socio-economic factors, and enables users to interactively analyze trends by country and continent, providing valuable insights into global well-being patterns.
 
 ![image](https://github.com/user-attachments/assets/a456aa95-cd12-421d-9ede-cef88da22ce2)
 
@@ -21,15 +21,15 @@ This dashboard leverages the World Happiness Report dataset to present interacti
 
 ## Features
 
-- **Global Happiness Trends:** Track average happiness scores over time worldwide[2].
-- **Country Rankings:** View the top 10 happiest and least happy countries based on average scores[2].
-- **Continental Analysis:** Explore happiness trends by continent and compare with country-level data[2].
-- **Significant Changes:** Identify countries with the largest increases or decreases in happiness over time[2].
-- **Correlation Matrix:** Analyze the relationships between happiness and contributing factors such as GDP, social support, and more[1].
-- **Category Trends:** Compare happiness trends between the happiest countries and others[2].
-- **GDP vs. Happiness:** Visualize the relationship between GDP per capita and happiness scores[1].
-- **Interactive World Map:** Map happiness and related attributes for any selected year and variable[2].
-- **Customizable Visualizations:** Filter by year, continent, and data attribute for tailored exploration[2].
+- **Global Happiness Trends:** Track average happiness scores over time worldwide.
+- **Country Rankings:** View the top 10 happiest and least happy countries based on average scores.
+- **Continental Analysis:** Explore happiness trends by continent and compare with country-level data.
+- **Significant Changes:** Identify countries with the largest increases or decreases in happiness over time.
+- **Correlation Matrix:** Analyze the relationships between happiness and contributing factors such as GDP, social support, and more.
+- **Category Trends:** Compare happiness trends between the happiest countries and others.
+- **GDP vs. Happiness:** Visualize the relationship between GDP per capita and happiness scores.
+- **Interactive World Map:** Map happiness and related attributes for any selected year and variable.
+- **Customizable Visualizations:** Filter by year, continent, and data attribute for tailored exploration.
 
 ---
 
@@ -50,7 +50,7 @@ To run the application locally, follow the instructions in the [Installation](#i
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/ProfOzpin/World-Happiness-Visualisation.git
+   git clone https://github.com/ProfOzpin/World-Happiness-Visualisation
    cd world-happiness-dashboard
    ```
 2. **Install required R packages:**
@@ -68,7 +68,7 @@ To run the application locally, follow the instructions in the [Installation](#i
    ```r
    shiny::runApp()
    ```
-3. The dashboard will launch in your default web browser. Use the sidebar to navigate between pages and tabs for different analyses[3][4].
+3. The dashboard will launch in your default web browser. Use the sidebar to navigate between pages and tabs for different analyses.
 
 ## Data Sources
 
