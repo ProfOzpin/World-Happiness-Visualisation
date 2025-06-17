@@ -13,18 +13,11 @@ An interactive R Shiny dashboard for exploring global happiness trends using the
 - [Usage](#usage)
 - [Data Sources](#data-sources)
 - [App Structure](#app-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
 
 ## Overview
 
 This dashboard leverages the World Happiness Report dataset to present interactive visualizations and analyses of happiness trends across countries and continents from 2006 to 2023. Users can explore how happiness has evolved globally, identify the happiest and least happy countries, analyze the impact of various factors (GDP, social support, life expectancy, etc.), and visualize the relationships between these variables[1][2].
-
----
 
 ## Features
 
@@ -95,14 +88,6 @@ To run the application locally, follow the instructions in the [Installation](#i
   - Happiness Trends by Category
   - GDP vs Happiness
   - World Map (selectable by year and attribute)
-    
-## Screenshots
-
-*(Add screenshots of the dashboard here after running the app locally.)*
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with improvements, bug fixes, or new features.
 
 ## License
 
